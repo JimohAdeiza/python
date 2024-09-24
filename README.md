@@ -1,5 +1,6 @@
-# python
-#Area of Triangle
+# Python Script
+
+**#Area of Triangle**
 def area_of_triangle():
         b = int(input("Enter the base of triangle"))
         h = int(input("Enter it's height"))
@@ -133,7 +134,7 @@ print(lasulawcutoff)
 if lasulawcutoff >=70 and lasulawcutoff <=100:
 	print("Congratulation you passed successfully")
 
-#quadratic formula
+#Quadratic formula
 
 import math
 a = int(input("enter the value of a"))
